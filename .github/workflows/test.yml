@@ -16,7 +16,7 @@ jobs:
         with:
           deno-version: 1.24.2
       - run: make load-cache
-      - run: deno fmt --check --ignore=vendor/ --ignore=everything.json
+      - run: deno fmt --check --ignore=vendor/,everything.json
       - run: deno test --lock=lock.json --cached-only --no-remote --import-map=vendor/import_map.json --allow-none
       - run: deno run --lock=lock.json --cached-only --no-remote --import-map=vendor/import_map.json --allow-net --allow-write src/cli.ts everything.json
       - uses: actions/upload-artifact@v3.1.0
