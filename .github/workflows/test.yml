@@ -1,0 +1,24 @@
+name: Test Deno
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3.0.2
+      - uses: denoland/setup-deno@v1.1.0
+        with:
+          deno-version: 1.24.2
+      - run: deno fmt --check
+      - run: deno test --allow-none
+      - run: deno run --allow-net --allow-write src/cli.ts everything.json
+      - uses: actions/upload-artifact@v3.1.0
+        with:
+          name: everything.json
+          path: everything.json

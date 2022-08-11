@@ -1,7 +1,5 @@
 [
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting - Financial",
     "method": "Traditional",
     "crn": "19352",
@@ -43,8 +41,6 @@
     ]
   },
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting - Financial",
     "method": "Traditional",
     "crn": "21526",
@@ -86,8 +82,6 @@
     ]
   },
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting - Financial",
     "method": "Traditional",
     "crn": "21624",
@@ -129,8 +123,6 @@
     ]
   },
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting - Financial",
     "method": "Traditional",
     "crn": "21635",
@@ -172,8 +164,6 @@
     ]
   },
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting - Financial",
     "method": "Traditional",
     "crn": "16025",
@@ -215,8 +205,6 @@
     ]
   },
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting - Financial",
     "method": "Traditional",
     "crn": "23320",
@@ -258,8 +246,6 @@
     ]
   },
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting - Financial",
     "method": "Traditional",
     "crn": "23321",
@@ -301,8 +287,6 @@
     ]
   },
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting-Financial",
     "method": "Traditional",
     "crn": "23448",
@@ -344,8 +328,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "21549",
@@ -387,8 +369,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19355",
@@ -430,8 +410,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19338",
@@ -473,8 +451,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19346",
@@ -516,8 +492,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting- Financial",
     "method": "Blended",
     "crn": "23306",
@@ -559,8 +533,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19334",
@@ -602,8 +574,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19349",
@@ -645,8 +615,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19368",
@@ -688,8 +656,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19371",
@@ -731,8 +697,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19388",
@@ -774,8 +738,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19397",
@@ -817,8 +779,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19379",
@@ -860,8 +820,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19375",
@@ -903,8 +861,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19382",
@@ -946,8 +902,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19400",
@@ -989,8 +943,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19394",
@@ -1032,8 +984,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Financial",
     "method": "Blended",
     "crn": "19405",
@@ -1075,8 +1025,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "",
     "name": "Principles of Accounting - Financial",
     "method": "Flex Online",
     "crn": "22594",
@@ -1118,8 +1066,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "",
     "name": "Principles of Accounting - Financial",
     "method": "Flex Online",
     "crn": "22595",
@@ -1161,8 +1107,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "This is a first 8-week session online course. \n Some assessments may require proctoring.",
     "name": "Principles of Accounting - Financial",
     "method": "Flex Online",
     "crn": "19414",
@@ -1204,8 +1148,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "This is a first 8-week session online course.",
     "name": "Principles of Accounting - Financial",
     "method": "Flex Online",
     "crn": "11569",
@@ -1247,8 +1189,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "This is a second 8-week session online course.",
     "name": "Principles of Accounting - Financial",
     "method": "Flex Online",
     "crn": "19416",
@@ -1290,8 +1230,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "This is a second 8-week session online course.",
     "name": "Principles of Accounting - Financial",
     "method": "Flex Online",
     "crn": "22597",
@@ -1333,8 +1271,6 @@
     ]
   },
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting - Financial",
     "method": "Interactive Video",
     "crn": "19359",
@@ -1376,8 +1312,6 @@
     ]
   },
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting - Financial",
     "method": "Interactive Video",
     "crn": "19364",
@@ -1419,8 +1353,6 @@
     ]
   },
   {
-    "delivery": null,
-    "deliveryTerm": null,
     "name": "Principles of Accounting - Financial",
     "method": "Interactive Video",
     "crn": "19365",
@@ -1462,8 +1394,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Managerial",
     "method": "Blended",
     "crn": "22600",
@@ -1505,8 +1435,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Managerial",
     "method": "Blended",
     "crn": "19430",
@@ -1548,8 +1476,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Managerial",
     "method": "Blended",
     "crn": "21529",
@@ -1591,8 +1517,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Managerial",
     "method": "Blended",
     "crn": "19427",
@@ -1634,8 +1558,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Managerial",
     "method": "Blended",
     "crn": "19433",
@@ -1677,8 +1599,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Accounting - Managerial",
     "method": "Blended",
     "crn": "19437",
@@ -1720,8 +1640,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a first 8-week session blended course.",
     "name": "Principles of Managerial Accounting",
     "method": "Blended",
     "crn": "23310",
@@ -1763,8 +1681,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Managerial",
     "method": "Blended",
     "crn": "19443",
@@ -1806,8 +1722,6 @@
     ]
   },
   {
-    "delivery": "Blended (Hybrid) Course",
-    "deliveryTerm": "This is a second 8-week session blended course.",
     "name": "Principles of Accounting - Managerial",
     "method": "Blended",
     "crn": "19446",
@@ -1849,8 +1763,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "",
     "name": "Principles of Accounting - Managerial",
     "method": "Flex Online",
     "crn": "22598",
@@ -1892,8 +1804,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "",
     "name": "Principles of Managerial Accounting",
     "method": "Flex Online",
     "crn": "23322",
@@ -1935,8 +1845,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "This is a first 8-week session online course. \n Some assessments may require proctoring.",
     "name": "Principles of Accounting - Managerial",
     "method": "Flex Online",
     "crn": "19449",
@@ -1978,8 +1886,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "This is a first 8-week session online course.",
     "name": "Principles of Accounting - Managerial",
     "method": "Flex Online",
     "crn": "22599",
@@ -2021,8 +1927,6 @@
     ]
   },
   {
-    "delivery": "Online (Internet) Course",
-    "deliveryTerm": "This is a second 8-week session online course. \n Some assessments may require proctoring.",
     "name": "Principles of Accounting - Managerial",
     "method": "Flex Online",
     "crn": "19450",
