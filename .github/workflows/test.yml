@@ -15,9 +15,10 @@ jobs:
       - uses: denoland/setup-deno@v1.1.0
         with:
           deno-version: 1.24.2
+      - run: make load-cache
       - run: deno fmt --check
-      - run: deno test --allow-none
-      - run: deno run --allow-net --allow-write src/cli.ts everything.json
+      - run: deno test --lock=lock.json --cached-only --allow-none
+      - run: deno run --lock=lock.json --cached-only --allow-net --allow-write src/cli.ts everything.json
       - uses: actions/upload-artifact@v3.1.0
         with:
           name: everything.json
