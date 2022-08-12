@@ -6,11 +6,19 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: true
 
 jobs:
   scrape:
-    concurrency: scrape
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3.0.2
@@ -24,6 +32,9 @@ jobs:
           name: everything.json
           path: everything.json
       - run: mkdir site && mv everything.json site/
-      - uses: JamesIves/github-pages-deploy-action@v4
+      - uses: actions/configure-pages@v1
+      - uses: actions/upload-pages-artifact@v1
         with:
-          folder: site
+          path: site
+      - uses: actions/deploy-pages@main
+        id: deployment
